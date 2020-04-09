@@ -1,4 +1,11 @@
-
+day 1
+learn to use github
+day 2,day 3,day 4
+learn HTML and CSS for front-end development
+day 5,day 6,day 7. 
+learn to use Flask
+day 8,day 9
+searching about  the idea for project.
 # CODE-DOWN-2020-Challenge
 A coding challenge to enhance your learning. <br>
  - Our Website : http://www.aitcodedown.in/ <br>
